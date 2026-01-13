@@ -1,0 +1,4 @@
+test_photo/
+venv
+models/
+.env
